@@ -1,5 +1,6 @@
 # Handwriting-recognition
 Recognize handwriting | Handwritten text recognition | Digitize characters
+<a href="https://youtu.be/MPOqpvWK9bg">Video</a>
 <br><img src="https://i.imgur.com/jPxMTdA.jpg">
 <br><br><img src="https://i.imgur.com/8S40dV9.jpg">
 
