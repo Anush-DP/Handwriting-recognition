@@ -8,4 +8,4 @@ Requirements: NumPy, Matplotlib, OpenCV, PyTorch
 
 # Contributors
 1. Anush DP ([GitHub](https://github.com/Anush-DP))
-2. Hemanth Kumar V ([GitHub](https://github.com/ser-fuyah))
+2. Hemanth Kumar V ([GitHub](https://github.com/hemanth-kumarv))
